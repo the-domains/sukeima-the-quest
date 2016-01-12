@@ -1,0 +1,28 @@
+name: Sukeima-The Quest-
+favicon: null
+layout_spectrum: 0.1399084720760584
+typography_spectrum: 0.6908910723868757
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6254044277593493
+  lightness: 0.0670603106264025
+  saturation: 0.32639498030766845
+  rhythmicContrast: 0.0608995477668941
+purpose: []
